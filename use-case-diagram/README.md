@@ -1,0 +1,1 @@
+![Use Case Diagram](<Untitled diagram-2025-10-27-171320.png>)
